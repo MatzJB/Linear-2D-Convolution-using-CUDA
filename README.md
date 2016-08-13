@@ -28,3 +28,5 @@ To install the routines you first need the Visual Studio redistributable in your
 ## Examples
 
 To run the example/test.ms just cd to that directory and add to path and run. The example image file Lena.png is used.
+
+![Lena](Examples/Lena.png)
