@@ -36,5 +36,5 @@ To run the example/test.ms just `cd` to that directory and add to path and run. 
 
 ## Remarks
 
-The code is the result of the my masters thesis in computer science ([link to report](https://dl.dropboxusercontent.com/u/2546393/Wordpress/reports/Matz%20JB%20-%20Master_Thesis_Study_of_Convolution_Algorithms_using_CPU_and_Graphics_Hardware%20-%202012_10_22.pdf)). I never implemented the convolution algorithm with all of the speed up tricks I had found during my research because of lack of time. I have since moved on, but there are a few ideas I would like to try out and some new algorithms I have worked on for 1D, 2D and even 3D convolution.
+The code is the result of the my masters thesis in computer science ([link to report](http://matzjb.se/wp-content/uploads/media/reports/Matz%20JB%20-%20Master_Thesis_Study_of_Convolution_Algorithms_using_CPU_and_Graphics_Hardware%20-%202012_10_22.pdf)). I never implemented the convolution algorithm with all of the speed up tricks I had found during my research because of lack of time. I have since moved on, but there are a few ideas I would like to try out and some new algorithms I have worked on for 1D, 2D and even 3D convolution.
 
